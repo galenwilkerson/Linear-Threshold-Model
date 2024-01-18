@@ -1,4 +1,4 @@
-# Network Cascades and Boolean Functions Toolkit
+# Linear Threshold Model: Network Cascades and Boolean Functions Toolkit
 
 This repository contains a Python module that provides a toolkit for working with network cascades, adjacency matrices, Boolean functions, and network visualization. It is designed to assist in various network-related tasks and analyses.
 
