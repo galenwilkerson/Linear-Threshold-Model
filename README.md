@@ -65,13 +65,13 @@
 <p>This toolkit is based on research presented in the following papers:</p>
 
 <ol>
-  <li><a href="https://www.nature.com/articles/s41598-022-40724-7">Spontaneous emergence of computation in network cascades</a>
+  <li><a href="https://www.nature.com/articles/s41598-022-19218-0">Spontaneous emergence of computation in network cascades</a>
     <ul>
       <li>Authors: Wilkerson, Galen; Moschoyiannis, Sotiris; Jensen, Henrik Jeldtoft</li>
       <li>Published in Scientific Reports (2022)</li>
     </ul>
   </li>
-  <li><a href="https://www.cambridge.org/engage/api-gateway/networksocietymedia/assets/orp/resource/item/6303f1350bb836c0bebb7a18/original/logic-and-learning-in-network-cascades.pdf">Logic and learning in network cascades</a>
+  <li><a href="https://www.cambridge.org/core/journals/network-science/article/logic-and-learning-in-network-cascades/B89A3EB13FF6F1719482D38F11E37068">Logic and learning in network cascades</a>
     <ul>
       <li>Authors: Wilkerson, Galen J.; Moschoyiannis, Sotiris</li>
       <li>Published in Network Science (2021)</li>
