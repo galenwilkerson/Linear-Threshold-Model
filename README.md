@@ -1,17 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-  .title-image-container {
-    display: flex;
-    align-items: center;
-    gap: 20px; /* Adjust the gap as needed */
-  }
-  .title-text {
-    flex: 1; /* Allow the text to take available space */
-  }
-</style>
-</head>
 <body>
 <div class="title-image-container">
   <div class="title-text">
