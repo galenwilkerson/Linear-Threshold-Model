@@ -76,6 +76,30 @@
 <h2>License</h2>
 <p>This toolkit is provided under the <a href="LICENSE">MIT License</a>.</p>
 
+
+
+ <div class="header">
+        <h1>Linear Threshold Model Zoo</h1>
+    </div>
+    <div class="container">
+        <!-- Add your images here -->
+        <img src="zoo/ltm_simulation10.gif" alt="LTM Simulation 10">
+        <img src="zoo/ltm_simulation11.gif" alt="LTM Simulation 11">
+        <img src="zoo/ltm_simulation12.gif" alt="LTM Simulation 12">
+        <img src="zoo/ltm_simulation13.gif" alt="LTM Simulation 13">
+        <img src="zoo/ltm_simulation_1.gif" alt="LTM Simulation 1">
+        <img src="zoo/ltm_simulation2.gif" alt="LTM Simulation 2">
+        <img src="zoo/ltm_simulation3.gif" alt="LTM Simulation 3">
+        <img src="zoo/ltm_simulation4.gif" alt="LTM Simulation 4">
+        <img src="zoo/ltm_simulation5.gif" alt="LTM Simulation 5">
+        <img src="zoo/ltm_simulation6.gif" alt="LTM Simulation 6">
+        <img src="zoo/ltm_simulation7.gif" alt="LTM Simulation 7">
+        <img src="zoo/ltm_simulation8.gif" alt="LTM Simulation 8">
+        <img src="zoo/ltm_simulation9.gif" alt="LTM Simulation 9">
+    </div>
+
+
+
 </body>
 </html>
 
