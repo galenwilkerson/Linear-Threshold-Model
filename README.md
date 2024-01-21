@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <body>
+   <img src="ltm_simulation.gif" width="300">
 <div class="title-image-container">
   <div class="title-text">
     <h1>Linear Threshold Model:</h1>
     <h2>Network Cascades and Boolean Functions Toolkit</h2>
   </div>
-  <img src="ltm_simulation.gif" width="200">
+ 
 </div>
 
 <p>This repository contains a Python module that provides a toolkit for working with network cascades, adjacency matrices, Boolean functions, and network visualization. It is designed to assist in various network-related tasks and analyses.</p>
