@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <div style="width: 100%;">
+  <figure>
+     <div style="width: 100%;">
     <img src="zoo/ltm_logic.gif" width="270" alt="LTM Logic">
     <img src="zoo/gcc_ltm_animation.gif" width="600" alt="Second Image">
 </div>
+    <figcaption>Linear Threshold Model simulation. The grey node borders show their thresholds. Green nodes are seed nodes.</figcaption>
+</figure>
+ 
 
 <div class="title-image-container">
   <div class="title-text">
