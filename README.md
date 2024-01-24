@@ -134,8 +134,8 @@ options:
 </pre>
 <h2>Show the correpondence between percolation and cascade size.</h2>
 <figure>
-    <img src="zoo/ltm_logic.gif" width="300" alt="LTM Simulation">
-    <figcaption> Linear Threshold Model logic simulation, showing activation patterns on the same network when running a cascade for each row of inputs.  The grey node borders show their thresholds.  Green nodes are input nodes.</figcaption>
+    <img src="zoo/GCC_cascade.png" width="300" alt="LTM Simulation">
+    <figcaption> The correspondence between giant connected component size and mean cascade size, versus mean degree z.</figcaption>
 </figure>
 <br><br>
 
