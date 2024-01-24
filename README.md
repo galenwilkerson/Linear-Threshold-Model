@@ -140,6 +140,40 @@ options:
   --max_steps MAX_STEPS
                         Maximum number of steps in the simulation
 </pre>
+
+
+<h2>Show the correpondence between percolation and cascade size.</h2>
+<figure>
+    <img src="zoo/GCC_cascade.png" width="500" alt="LTM Simulation">
+    <figcaption> The correspondence between giant connected component size and mean cascade size, versus mean degree z.</figcaption>
+</figure>
+<br><br>
+
+
+<p>To run the <code>show_GCC_versus_cascade_size.py</code> script for simulating and visualizing the Linear Threshold Model, you can use the following command line options:</p>
+
+<pre>
+python gcc_versus_cascade_size_animation.py --h
+usage: gcc_versus_cascade_size_animation.py [-h] [--n N] [--z_start Z_START] [--z_end Z_END] [--num_trials NUM_TRIALS] [--threshold THRESHOLD] [--num_simulations NUM_SIMULATIONS]
+                                            [--plot_data {GCC,Cascade,Both}]
+
+Run Linear Threshold Model Simulation
+
+options:
+  -h, --help            show this help message and exit
+  --n N                 Number of nodes in the graph (default: 100)
+  --z_start Z_START     Start of the mean degree range (default: 0)
+  --z_end Z_END         End of the mean degree range (default: 5)
+  --num_trials NUM_TRIALS
+                        Number of z values to simulate (default: 20)
+  --threshold THRESHOLD
+                        Activation threshold for the nodes (default: 0.1)
+  --num_simulations NUM_SIMULATIONS
+                        Number of simulations per z value (default: 10)
+  --plot_data {GCC,Cascade,Both}
+                        Specify what to plot: GCC, Cascade, or Both (default: Both)
+</pre>
+
 <h2>Show the correpondence between percolation and cascade size.</h2>
 <figure>
     <img src="zoo/GCC_cascade.png" width="500" alt="LTM Simulation">
