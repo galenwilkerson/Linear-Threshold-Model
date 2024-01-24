@@ -78,7 +78,7 @@
     <img src="zoo/ltm_simulation__1.gif" width="300" alt="LTM Simulation">
     <figcaption> Linear Threshold Model Simulation.  The grey node borders show their thresholds.  Green nodes are seed nodes.</figcaption>
 </figure>
-<br>
+<br><br>
 
 <p>The <code>ltm_animation_vectorized.py</code> script generates an animation of the Linear Threshold Model (LTM) using a vectorized approach. This script allows for efficient simulation and visualization of LTM dynamics in network structures.</p>
 
@@ -105,9 +105,9 @@ options:
 
 <figure>
     <img src="zoo/ltm_logic.gif" width="300" alt="LTM Simulation">
-    <figcaption> Linear Threshold Model Simulation.  The grey node borders show their thresholds.  Green nodes are seed nodes.</figcaption>
+    <figcaption> Linear Threshold Model logic simulation, showing activation patterns on the same network when running a cascade for each row of inputs.  The grey node borders show their thresholds.  Green nodes are input nodes.</figcaption>
 </figure>
-<br>
+<br><br>
 
 <p>The <code>ltm_logic_animation_vectorized.py</code> script offers a vectorized method to visualize the logic behind the Linear Threshold Model (LTM). It focuses on the logical aspects and decision-making processes within the LTM framework.</p>
 
