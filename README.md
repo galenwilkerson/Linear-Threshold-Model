@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <img src="zoo/ltm_logic.gif" width="400">
+  <div style="width: 100%;">
+    <img src="zoo/ltm_logic.gif" width="400" alt="LTM Logic">
+    <img src="zoo/ltm_logic.gif" width="400" alt="Second Image">
+</div>
+
 <div class="title-image-container">
   <div class="title-text">
     <h1>Linear Threshold Model:</h1>
