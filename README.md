@@ -132,7 +132,31 @@ options:
   --max_steps MAX_STEPS
                         Maximum number of steps in the simulation
 </pre>
+<h2>Command Line Instructions for show_GCC_versus_cascade_size.py</h2>
 
+<p>To run the <code>show_GCC_versus_cascade_size.py</code> script for simulating and visualizing the Linear Threshold Model, you can use the following command line options:</p>
+
+<pre>
+python show_GCC_versus_cascade_size.py --h
+usage: show_GCC_versus_cascade_size.py [-h] [--n N] [--z_start Z_START] [--z_end Z_END] [--num_z_steps NUM_Z_STEPS] [--threshold THRESHOLD] [--num_trials NUM_TRIALS]
+                                       [--plot_data {GCC,Cascade,Both}]
+
+Run Linear Threshold Model Simulation
+
+options:
+  -h, --help            show this help message and exit
+  --n N                 Number of nodes in the graph (default: 100)
+  --z_start Z_START     Start of the mean degree range (default: 0)
+  --z_end Z_END         End of the mean degree range (default: 5)
+  --num_z_steps NUM_Z_STEPS
+                        Number of z values to simulate (default: 20)
+  --threshold THRESHOLD
+                        Activation threshold for the nodes (default: 0.1)
+  --num_trials NUM_TRIALS
+                        Number of simulations per z value (default: 10)
+  --plot_data {GCC,Cascade,Both}
+                        Specify what to plot: GCC, Cascade, or Both (default: Both)
+</pre>
 
 <h2>License</h2>
 <p>This toolkit is provided under the <a href="LICENSE">MIT License</a>.</p>
