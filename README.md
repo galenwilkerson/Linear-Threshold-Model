@@ -76,7 +76,7 @@
 <h2>LTM Animation Vectorized</h2>
 <figure>
     <img src="zoo/ltm_simulation__1.gif" width="200" alt="LTM Simulation">
-    <figcaption> Linear Threshold Model Simulation.  The grey node borders show their thresholds.  Green nodes are seed nodes.</figcaption>
+    <figcaption> Linear Threshold Model simulation.  The grey node borders show their thresholds.  Green nodes are seed nodes.</figcaption>
 </figure>
 <br><br>
 
