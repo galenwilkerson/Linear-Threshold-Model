@@ -144,7 +144,7 @@ options:
 
 <h2>Show an animation of the correpondence between percolation and cascade size.</h2>
 <figure>
-    <img src="gcc_ltm_animation.gif" width="500" alt="LTM Simulation">
+    <img src="zoo/gcc_ltm_animation.gif" width="700" alt="LTM Simulation">
     <figcaption> The correspondence between giant connected component size and mean cascade size, versus mean degree z.</figcaption>
 </figure>
 <br><br>
