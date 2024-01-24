@@ -73,6 +73,51 @@
 <h2>Note</h2>
 <p>Please be aware that this module contains a mix of vectorized and non-vectorized cascade algorithms, along with some experimental or incomplete functions. Before using it in a production environment, review the code carefully and exercise caution.</p>
 
+<h2>LTM Animation Vectorized</h2>
+<p>The <code>ltm_animation_vectorized.py</code> script generates an animation of the Linear Threshold Model (LTM) using a vectorized approach. This script allows for efficient simulation and visualization of LTM dynamics in network structures.</p>
+
+<h3>Usage</h3>
+<pre>
+python ltm_animation_vectorized.py --h
+usage: ltm_animation_vectorized.py [-h] [--num_nodes NUM_NODES] [--mean_degree MEAN_DEGREE] [--num_initial_active NUM_INITIAL_ACTIVE] [--max_steps MAX_STEPS]
+
+Run Linear Threshold Model Simulation
+
+options:
+  -h, --help            show this help message and exit
+  --num_nodes NUM_NODES
+                        Number of nodes in the graph
+  --mean_degree MEAN_DEGREE
+                        Mean degree of the nodes in the graph
+  --num_initial_active NUM_INITIAL_ACTIVE
+                        Number of initially active nodes
+  --max_steps MAX_STEPS
+                        Maximum number of steps in the simulation
+</pre>
+
+<h2>LTM Logic Animation Vectorized</h2>
+<p>The <code>ltm_logic_animation_vectorized.py</code> script offers a vectorized method to visualize the logic behind the Linear Threshold Model (LTM). It focuses on the logical aspects and decision-making processes within the LTM framework.</p>
+
+<h3>Usage</h3>
+<pre>
+python ltm_logic_animation_vectorized.py --h
+usage: ltm_logic_animation_vectorized.py [-h] [--num_nodes NUM_NODES] [--num_input_nodes NUM_INPUT_NODES] [--mean_degree MEAN_DEGREE] [--max_steps MAX_STEPS]
+
+Run Linear Threshold Model Simulation
+
+options:
+  -h, --help            show this help message and exit
+  --num_nodes NUM_NODES
+                        Number of nodes in the graph
+  --num_input_nodes NUM_INPUT_NODES
+                        Number of input nodes
+  --mean_degree MEAN_DEGREE
+                        Mean degree of the nodes in the graph
+  --max_steps MAX_STEPS
+                        Maximum number of steps in the simulation
+</pre>
+
+
 <h2>License</h2>
 <p>This toolkit is provided under the <a href="LICENSE">MIT License</a>.</p>
 
