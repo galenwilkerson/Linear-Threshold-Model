@@ -2,8 +2,8 @@
 <html>
 <body>
   <div style="width: 100%;">
-    <img src="zoo/ltm_logic.gif" width="400" alt="LTM Logic">
-    <img src="zoo/gcc_ltm_animation.gif" width="700" alt="Second Image">
+    <img src="zoo/ltm_logic.gif" width="350" alt="LTM Logic">
+    <img src="zoo/gcc_ltm_animation.gif" width="600" alt="Second Image">
 </div>
 
 <div class="title-image-container">
