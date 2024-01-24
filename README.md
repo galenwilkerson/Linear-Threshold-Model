@@ -72,11 +72,10 @@
 
 <h2>Note</h2>
 <p>Please be aware that this module contains a mix of vectorized and non-vectorized cascade algorithms, along with some experimental or incomplete functions. Before using it in a production environment, review the code carefully and exercise caution.</p>
-
 <h2>LTM Animation Vectorized</h2>
 <figure>
     <img src="zoo/ltm_simulation__1.gif" width="200" alt="LTM Simulation">
-    <figcaption> Linear Threshold Model simulation.  The grey node borders show their thresholds.  Green nodes are seed nodes.</figcaption>
+    <figcaption>Linear Threshold Model simulation. The grey node borders show their thresholds. Green nodes are seed nodes.</figcaption>
 </figure>
 <br><br>
 
@@ -86,6 +85,7 @@
 <pre>
 python ltm_animation_vectorized.py --h
 usage: ltm_animation_vectorized.py [-h] [--num_nodes NUM_NODES] [--mean_degree MEAN_DEGREE] [--num_initial_active NUM_INITIAL_ACTIVE] [--max_steps MAX_STEPS]
+                                   [--uniform_threshold UNIFORM_THRESHOLD]
 
 Run Linear Threshold Model Simulation
 
@@ -99,7 +99,10 @@ options:
                         Number of initially active nodes
   --max_steps MAX_STEPS
                         Maximum number of steps in the simulation
+  --uniform_threshold UNIFORM_THRESHOLD
+                        Uniform threshold for all nodes. If not set, thresholds are random.
 </pre>
+
 
 <h2>LTM Logic Animation Vectorized</h2>
 
