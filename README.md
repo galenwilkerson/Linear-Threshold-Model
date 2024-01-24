@@ -132,7 +132,13 @@ options:
   --max_steps MAX_STEPS
                         Maximum number of steps in the simulation
 </pre>
-<h2>Command Line Instructions for show_GCC_versus_cascade_size.py</h2>
+<h2>Show the correpondence between percolation and cascade size.</h2>
+<figure>
+    <img src="zoo/ltm_logic.gif" width="300" alt="LTM Simulation">
+    <figcaption> Linear Threshold Model logic simulation, showing activation patterns on the same network when running a cascade for each row of inputs.  The grey node borders show their thresholds.  Green nodes are input nodes.</figcaption>
+</figure>
+<br><br>
+
 
 <p>To run the <code>show_GCC_versus_cascade_size.py</code> script for simulating and visualizing the Linear Threshold Model, you can use the following command line options:</p>
 
