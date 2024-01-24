@@ -74,6 +74,9 @@
 <p>Please be aware that this module contains a mix of vectorized and non-vectorized cascade algorithms, along with some experimental or incomplete functions. Before using it in a production environment, review the code carefully and exercise caution.</p>
 
 <h2>LTM Animation Vectorized</h2>
+
+<img src="zoo/ltm_simulation__1.gif" width="400">
+
 <p>The <code>ltm_animation_vectorized.py</code> script generates an animation of the Linear Threshold Model (LTM) using a vectorized approach. This script allows for efficient simulation and visualization of LTM dynamics in network structures.</p>
 
 <h3>Usage</h3>
