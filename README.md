@@ -2,7 +2,7 @@
 <html>
 <body>
   <div style="width: 100%;">
-    <img src="zoo/ltm_logic.gif" width="300" alt="LTM Logic">
+    <img src="zoo/ltm_logic.gif" width="270" alt="LTM Logic">
     <img src="zoo/gcc_ltm_animation.gif" width="700" alt="Second Image">
 </div>
 
