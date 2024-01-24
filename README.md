@@ -6,7 +6,7 @@
     <img src="zoo/ltm_logic.gif" width="270" alt="LTM Logic">
     <img src="zoo/gcc_ltm_animation.gif" width="600" alt="Second Image">
 </div>
-    <figcaption>Linear Threshold Model simulation. The grey node borders show their thresholds. Green nodes are seed nodes.</figcaption>
+    <figcaption>Linear Threshold Model simulation. Left:  Creating a network, then activating seed nodes yields patterns of activation corresponding to logic functions in the network.  Right: Cascade sizes correspond to percolation - formation of the Giant Connected Component (GCC).</figcaption>
 </figure>
  
 
