@@ -8,6 +8,8 @@
 </div>
     <figcaption>Linear Threshold Model simulation. Left:  Creating a network then activating seed nodes as the inputs to inputs and running cascades yields patterns of activation corresponding to Boolean logic functions at network nodes.  Right: Cascade sizes correspond to percolation - formation of the Giant Connected Component (GCC).</figcaption>
 </figure>
+
+
  
 
 <div class="title-image-container">
