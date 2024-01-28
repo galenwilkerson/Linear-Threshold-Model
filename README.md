@@ -3,10 +3,13 @@
 <body>
   <figure>
      <div style="width: 100%;">
-    <img src="zoo/ltm_logic.gif" width="270" alt="LTM Logic">
+    <img src="zoo/ltm_simulation_defaults.gif" width="270" alt="LTM Logic">
+    <img src="zoo/combined_graph_legend_defaults.png" width="270" alt="LTM Logic">
     <img src="zoo/gcc_ltm_animation.gif" width="600" alt="Second Image">
 </div>
-    <figcaption>Linear Threshold Model simulation. Left:  Creating a network then activating seed nodes as the inputs, then running cascades yields patterns of activation corresponding to Boolean logic functions at network nodes.  Right: Cascade sizes correspond to percolation - formation of the Giant Connected Component (GCC).</figcaption>
+    <figcaption>Linear Threshold Model simulation. Top/Left:  Creating a network then activating seed nodes as the inputs, then running cascades yields patterns of activation corresponding to Boolean logic functions at network nodes.
+      Middle:  The functions computed in this LTM.
+      Bottom/Right: Cascade sizes correspond to percolation - formation of the Giant Connected Component (GCC).</figcaption>
 </figure>
 
 
