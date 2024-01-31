@@ -3,6 +3,7 @@
 <body>
   <figure>
      <div style="width: 100%;">
+    <img src="zoo/ltm_simulation_k=5.gif" width="450" alt="LTM Logic">
     <img src="zoo/ltm_simulation_defaults.gif" width="450" alt="LTM Logic">
     <img src="zoo/combined_graph_legend_defaults.png" width="200" alt="LTM Logic">
     <img src="zoo/gcc_ltm_animation.gif" width="600" alt="Second Image">
